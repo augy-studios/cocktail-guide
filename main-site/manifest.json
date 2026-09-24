@@ -1,7 +1,7 @@
 {
     "name": "Cocktail Guide by UwU Apps",
     "short_name": "Cocktail Guide",
-    "description": "Look up any cocktail's ingredients and method, even offline.",
+    "description": "Look up a cocktail by name for its ingredients, measures and method. Drinks you've viewed stay saved, so they still open offline.",
     "icons": [{
             "src": "XCG-192.png",
             "type": "image/png",
