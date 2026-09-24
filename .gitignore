@@ -1,0 +1,7 @@
+# Local environment, may hold the real TheCocktailDB key
+.env
+.env.*
+!.env.example
+
+# Vercel CLI project link
+.vercel

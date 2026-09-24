@@ -1,7 +1,7 @@
 {
     "name": "Cocktail Guide by UwU Apps",
     "short_name": "Cocktail Guide",
-    "description": "A simple cocktailguide app; view live cocktailguide at a glance!",
+    "description": "Look up any cocktail's ingredients and method, even offline.",
     "icons": [{
             "src": "XCG-192.png",
             "type": "image/png",
